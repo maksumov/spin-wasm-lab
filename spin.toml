@@ -13,7 +13,7 @@ route = "/hello"
 component = "hello-world"
 
 [component.hello-world]
-source = "target/wasm32-wasip2/release/hello_world.wasm"
+source = "target/wasm32-wasip2/release/spin_wasm_lab.wasm"
 allowed_outbound_hosts = []
 [component.hello-world.build]
 command = "cargo build --target wasm32-wasip2 --release"

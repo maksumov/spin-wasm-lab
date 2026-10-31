@@ -1,0 +1,7 @@
+**
+
+!spin.toml
+!target/
+!target/wasm32-wasip2/
+!target/wasm32-wasip2/release/
+!target/wasm32-wasip2/release/spin_wasm_lab.wasm
